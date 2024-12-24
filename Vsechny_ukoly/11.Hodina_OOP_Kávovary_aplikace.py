@@ -1,4 +1,6 @@
-# Základní třída Device
+
+
+
 class Device:
     def __init__(self, brand: str, model: str, power: int):
 
@@ -61,10 +63,10 @@ coffee_machine = CoffeeMachine ("Delongi","Super S", 1450 , 2000)
 coffee_machine.show_info()
 coffee_machine.make_coffee()
 print()
-blender = Blender("Philips", "HR3652", 1400, 5)
+blender = Blender("Philips", "Haa3652", 1400, 5)
 blender.show_info()
 blender.blend()
 print()
-meat_grinder = MeatGrinder("Bosch", "MFW68660", 2200, 3.5)
+meat_grinder = MeatGrinder("Bosh", "Mf68660", 2200, 3.5)
 meat_grinder.show_info()
 meat_grinder.grind_meat()
