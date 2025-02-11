@@ -1,0 +1,10 @@
+Task1:
+ziskejte vsetky spravy a jmena ich autorov
+
+
+Task2:
+ziskajte  zoznam miestnosti  a ich posledne spravy
+
+
+Task3:
+ziskajte vsetky spravy za poslednych 24 hodin a jmena ich autorov
